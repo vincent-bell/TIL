@@ -18,4 +18,7 @@ int main (void)
 
     // Output the sum of the two inputted numbers
     cout << n1 + n2;
+
+    // Exit success
+    return 0;
 }
