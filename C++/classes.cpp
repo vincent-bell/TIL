@@ -6,7 +6,7 @@ class Dog {
 
     // Accessible outside of class methods
     public:
-        Dog (string name, int age);
+        Dog (string _name, int _age);
         void introduce (void);
         void bark (void);
 
